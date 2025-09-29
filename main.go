@@ -23,7 +23,7 @@ func main() {
   var pers2 Person//sruct variable
 
   // Pers1 specification
-  pers1.name = "vijay"
+  pers1.name = "srivenkat"
   pers1.age = 22
   pers1.job = "learner"
   pers1.salary = 20000
