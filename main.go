@@ -10,10 +10,17 @@ type Person struct {
 func add(a,b int)int{
  return a + b
 }
+<<<<<<< HEAD
 // func sub(a,b int)int{
 //  re1:=a-b
 //   return re1
 // } 
+=======
+func sub(a,b int)int{
+ re1:=a-b
+  return re1
+}
+>>>>>>> 713925a7283734c7653e62981e3375f4df6e82b1
 
 func main() {
 
