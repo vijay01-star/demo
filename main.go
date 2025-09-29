@@ -13,7 +13,7 @@ func add(a,b int)int{
 // func sub(a,b int)int{
 //  re1:=a-b
 //   return re1
-// }
+// } 
 
 func main() {
 
@@ -26,7 +26,7 @@ func main() {
   pers1.name = "vijay"
   pers1.age = 22
   pers1.job = "learner"
-  pers1.salary = 20000
+  pers1.salary = 28000
 
   // Pers2 specification
   pers2.name = "kumar"
