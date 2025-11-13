@@ -39,7 +39,7 @@ func main() {
   pers2.name = "kumar"
   pers2.age = 22
   pers2.job = "Trainee"
-  pers2.salary = 29500
+  pers2.salary = 28500
 
   // Access and print Pers1 info
   fmt.Println("person1 Name: ", pers1.name,"\n","person2 Name: ",pers2.name)
